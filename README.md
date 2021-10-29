@@ -14,5 +14,5 @@ sqlalchemy
 AWS Lambda Function, EventBridge (CRON Jobs)
 
 Integration_Architecture
-![Image of HOME page](https://github.com/abdul2025/Flyadeal_REMOTE_PASSWORD_RESET_PORTA_L/blob/main/Images/HomePage.png)
+![Image of Integration_Architecture](https://raw.githubusercontent.com/abdul2025/Microservice_AIMS_Integration_Crew_Notification/main/AIMS_Integration.png)
 
